@@ -1,4 +1,4 @@
-Na implementação do projeto foram utilizadaas as tecnologias abaixo:
+Na implementação do projeto foram utilizadas as tecnologias abaixo:
 
  IDE:
  IntelliJ IDEA
