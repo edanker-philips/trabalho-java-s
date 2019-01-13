@@ -9,5 +9,7 @@ Na implementação do projeto foram utilizadas as tecnologias abaixo:
  
  Dependências utilizadas no projeto são: Web, JPA, H2, Hateoas e Lombok.
  
- Para realizar os testes na API Rest foi utilzada a ferramenta abaixo: 
+ Para realizar os testes na API Rest foi utilizada a ferramenta abaixo: 
  https://www.getpostman.com/
+ 
+ 
