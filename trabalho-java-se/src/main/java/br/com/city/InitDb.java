@@ -14,7 +14,7 @@ public class InitDb implements CommandLineRunner {
 
     private CityRepository cityRepository;
 
-    private CityServiceImpl citiServiceImpl;
+    //private CityServiceImpl citiServiceImpl;
 
     @Override
     public void run(String... strings) throws Exception {
@@ -38,6 +38,6 @@ public class InitDb implements CommandLineRunner {
         System.out.println(city.getName());
         Iterable<City> allCities = cityRepository.findAll();*/
 
-        Map<String, Integer> cities = citiServiceImpl.getCountSmallerBiggestState();
+        //Map<String, Integer> cities = citiServiceImpl.getCountSmallerBiggestState();
     }
 }
