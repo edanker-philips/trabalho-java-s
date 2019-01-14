@@ -11,7 +11,7 @@ Na implementação do projeto foram utilizadas as tecnologias abaixo:
  
  Dependências utilizadas no projeto são: Web, JPA, H2, Hateoas e Lombok.
  
- Para realizar os testes na API Rest foi utilizada a ferramenta abaixo: 
+ Para realizar os testes na API Rest foi utilizada a ferramenta: 
  https://www.getpostman.com/
  
  Para executar o projeto, basta realizar clone ou download e abrir no IntelliJ IDEA, será necessário estar conectado na internet para baixar as dependências através do MAVEN, após basta compilar e executar a classe principal: SpringBootSampleApplication.java
